@@ -3,6 +3,18 @@
 > Полный путь от новичка до практикующего фриланс-разработчика.
 > Стек: **PHP → Laravel → VueJS → Docker → Redis → HTML/CSS → WordPress**
 
+<p>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="32" height="32" alt="HTML5">
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="32" height="32" alt="CSS3">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript">
+<img src="https://cdn.simpleicons.org/php/777BB4" width="32" height="32" alt="PHP">
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="32" height="32" alt="Laravel">
+<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="32" height="32" alt="Vue.js">
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32" alt="Docker">
+<img src="https://cdn.simpleicons.org/redis/FF4438" width="32" height="32" alt="Redis">
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="32" height="32" alt="WordPress">
+</p>
+
 ---
 
 ## 📌 Содержание
@@ -20,7 +32,7 @@
 
 ---
 
-## 1. 🎨 Фундамент: HTML/CSS
+## 1. <img src="https://cdn.simpleicons.org/html5/E34F26" width="28" height="28" valign="middle" alt="HTML5"> <img src="https://cdn.simpleicons.org/css3/1572B6" width="28" height="28" valign="middle" alt="CSS3"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="28" height="28" valign="middle" alt="JavaScript"> <img src="https://cdn.simpleicons.org/sass/CC6699" width="28" height="28" valign="middle" alt="Sass"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="28" height="28" valign="middle" alt="Tailwind CSS"> Фундамент: HTML/CSS
 
 Основа основ. Без этого не имеет смысла двигаться дальше.
 
@@ -35,7 +47,7 @@
 
 ---
 
-## 2. 🐘 PHP - основы бэкенда
+## 2. <img src="https://cdn.simpleicons.org/php/777BB4" width="28" height="28" valign="middle" alt="PHP"> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="28" height="28" valign="middle" alt="MySQL"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="28" height="28" valign="middle" alt="PostgreSQL"> <img src="https://cdn.simpleicons.org/composer/885630" width="28" height="28" valign="middle" alt="Composer"> PHP - основы бэкенда
 
 - [ ] Синтаксис, типы данных, массивы, функции
 - [ ] ООП в PHP (классы, интерфейсы, трейты, namespaces)
@@ -49,7 +61,7 @@
 
 ---
 
-## 3. 🅻 Laravel - фреймворк для PHP
+## 3. <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="28" height="28" valign="middle" alt="Laravel"> Laravel - фреймворк для PHP
 
 - [ ] Установка, структура проекта, `artisan`
 - [ ] Роутинг, контроллеры, middleware
@@ -62,12 +74,12 @@
 - [ ] События и слушатели (Events & Listeners)
 - [ ] Laravel + Redis (кэш, очереди, сессии)
 - [ ] Laravel AI SDK (для внедрения нейронок в проекты)
- 
+
 **Практика:** реализовать полноценный интернет-магазин или CRM с админкой и API.
 
 ---
 
-## 4. 💚 VueJS — фронтенд с реактивностью
+## 4. <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="28" height="28" valign="middle" alt="Vue.js"> <img src="https://cdn.simpleicons.org/vite/646CFF" width="28" height="28" valign="middle" alt="Vite"> <img src="https://cdn.simpleicons.org/vuerouter/4FC08D" width="28" height="28" valign="middle" alt="Vue Router"> <img src="https://cdn.simpleicons.org/pinia/FFD859" width="28" height="28" valign="middle" alt="Pinia"> <img src="https://cdn.simpleicons.org/axios/5A29E4" width="28" height="28" valign="middle" alt="Axios"> VueJS — фронтенд с реактивностью
 
 - [ ] Vite - сборка проекта
 - [ ] Основы Vue 3: реактивность, Composition API
@@ -81,7 +93,7 @@
 
 ---
 
-## 5. 🐳 Docker - контейнеризация
+## 5. <img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" valign="middle" alt="Docker"> <img src="https://cdn.simpleicons.org/nginx/009639" width="28" height="28" valign="middle" alt="Nginx"> <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="28" height="28" valign="middle" alt="Node.js"> Docker - контейнеризация
 
 - [ ] Что такое контейнеры и зачем они нужны
 - [ ] Dockerfile - сборка своего образа
@@ -92,7 +104,7 @@
 
 ---
 
-## 6. 🔴 Redis — кэширование и очереди
+## 6. <img src="https://cdn.simpleicons.org/redis/FF4438" width="28" height="28" valign="middle" alt="Redis"> Redis — кэширование и очереди
 
 - [ ] Что такое Redis и чем отличается от обычной БД
 - [ ] Установка и подключение к Laravel
@@ -105,7 +117,7 @@
 
 ---
 
-## 7. 📝 WordPress — быстрые проекты для клиентов
+## 7. <img src="https://cdn.simpleicons.org/wordpress/21759B" width="28" height="28" valign="middle" alt="WordPress"> <img src="https://cdn.simpleicons.org/woocommerce/96588A" width="28" height="28" valign="middle" alt="WooCommerce"> WordPress — быстрые проекты для клиентов
 
 Отдельный, но очень важный навык — **80% фриланс-заказов на "сделать сайт" — это WordPress**.
 
@@ -122,7 +134,7 @@
 
 ---
 
-## 8. 🌐 Сайт-портфолио (обязательный пункт)
+## 8. <img src="https://cdn.simpleicons.org/vercel/000000" width="28" height="28" valign="middle" alt="Vercel"> <img src="https://cdn.simpleicons.org/github/181717" width="28" height="28" valign="middle" alt="GitHub"> Сайт-портфолио (обязательный пункт)
 
 > ⚠️ Без портфолио на фрилансе очень сложно получить первые заказы. Клиенты хотят видеть примеры работ.
 
@@ -137,6 +149,12 @@
 ### 💡 Где хостить портфолио бесплатно
 
 Если сайт-портфолио чисто фронтендовый (HTML/CSS/JS или Vue/React без бэкенда) — **лучший бесплатный вариант это [Vercel](https://vercel.com)**:
+
+<p>
+<img src="https://cdn.simpleicons.org/vercel/000000" width="24" height="24" valign="middle" alt="Vercel">
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" width="24" height="24" valign="middle" alt="Netlify">
+<img src="https://cdn.simpleicons.org/githubpages/222222" width="24" height="24" valign="middle" alt="GitHub Pages">
+</p>
 
 - Бесплатный деплой прямо из GitHub-репозитория
 - Автоматический CI/CD - при пуше в `main` сайт обновляется сам
@@ -154,7 +172,7 @@
 
 ---
 
-## 9. 💼 Погружение во фриланс и поиск клиентов
+## 9. <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" valign="middle" alt="Telegram"> Погружение во фриланс и поиск клиентов
 
 - [ ] Зарегистрироваться на биржах: **Kwork**, **FL.ru**, **Freelancer.com**
 - [ ] Составить продающее описание профиля
@@ -162,7 +180,7 @@
 - [ ] Понимать основы ценообразования на услуги (почасовая/за проект)
 - [ ] Постепенно собирать отзывы - начинать можно с недорогих проектов(или вообще бесплатных)
 - [ ] Найти телеграмм чаты/каналы с большим трафиком(ссылка на такие чаты в тгк https://t.me/DevSpaceWork)
-- [ ] 
+- [ ]
 
 ---
 
